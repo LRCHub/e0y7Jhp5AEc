@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "来鳥江（feat. 山田孝之、愛笑む）",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-20T03:23:20.486926Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "来鳥江 (feat. 山田孝之 & 愛笑む)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_来鳥江_(feat._山田孝之_&_愛笑む)_UVERworld.txt"
+    }
+  ]
+}
